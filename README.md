@@ -2,7 +2,7 @@
 
 **AutoStack** is the ultimate AI-powered autonomous software factory. It combines specialized AI agents, LangGraph orchestration, and cloud-native infrastructure to help you **Plan**, **Build**, and **Deploy** applications and cloud environments - all without writing a single line of code by yourself.
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=vimeo)](https://vimeo.com/1160646228?share=copy&fl=sv&fe=ci)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=vimeo)](https://vimeo.com/1174130541?share=copy&fl=sv&fe=ci)
 
 ## The 2 Core Features
 
